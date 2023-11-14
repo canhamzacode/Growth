@@ -13,7 +13,6 @@ This is a personal portfolio website for a Growth Marketer, showcasing their ski
 
 - HTML
 - CSS
-- Little Javascript
 
 ## General Overview
 
